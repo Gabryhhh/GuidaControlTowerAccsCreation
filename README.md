@@ -24,9 +24,7 @@ jq è un processore JSON leggero e flessibile per la linea di comando. Per insta
 sudo yum install jq -y
 ```
 
-### Terraform
-
-Per installare Terraform, segui la [guida ufficiale per l'installazione di Terraform](https://learn.hashicorp.com/tutorials/terraform/install-cli).
+stallare Terraform, segui la [guida ufficiale per l'installazione di Terraform](https://learn.hashicorp.com/tutorials/terraform/install-cli).
 
 ## Configurazione
 
